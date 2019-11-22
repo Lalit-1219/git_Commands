@@ -1,0 +1,13 @@
+ git clone https://github.com/Lalit-1219/AnsibleWITHVault.git
+  987  ls
+  988  cd AnsibleWITHVault/
+  989  cp First_Playbook.yml
+  990  cp /root/First_Playbook.yml
+  991  cp /root/First_Playbook.yml /root/AnsibleWITHVault/
+  992  cp /root/secret.yml /root/AnsibleWITHVault/
+  993  ls
+  994  git init
+  995  git add .
+  996  git commit -m "ansible"
+  997  git push origin master
+
